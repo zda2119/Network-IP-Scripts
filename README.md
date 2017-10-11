@@ -8,10 +8,15 @@ All successful connections are outputed to output.txt (must exist in directory)
 
 This tool takes in a input file in the format of:
 192.168.1.0
+
 XXX.XXX.XXX.XXX
+
 XXX.XXX.XXX.XXX-XXX.XXX.XXX.XXX
+
 XXX.XXX.XXX.XXX/24
+
 XXX.XXX.XXX.XXX/16
+
 This file must be located at C:\ScriptFiles\IP.txt (Can be changed in code)
 
 
