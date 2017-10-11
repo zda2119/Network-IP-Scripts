@@ -10,6 +10,7 @@ This tool takes in a input file in the format of:
 192.168.1.0
 
 XXX.XXX.XXX.XXX
+
 XXX.XXX.XXX.XXX-XXX.XXX.XXX.XXX
 
 XXX.XXX.XXX.XXX/24
@@ -26,13 +27,23 @@ If successful, the output is ported to the screen, not an output file.
 
 This tool takes in an input file in the format of:
 129.21.72.100
+
 139
+
 129.21.72.100-129.21.72.101
+
 139
+
 129.21.72.100
+
 120-140
+
 129.21.72.100
+
 21,80,139
+
 129.21.72.100-129.21.72.101
+
 21,80,139
+
 This file must be located at C:\ScriptFiles\Pt.txt (Can be changed in code)
